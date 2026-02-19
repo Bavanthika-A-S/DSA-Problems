@@ -28,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/Bavanthika-A-S/DSA-Problems/tree/master/0876-middle-of-the-linked-list) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Bavanthika-A-S/DSA-Problems/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
