@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Bavanthika-A-S/DSA-Problems/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Bavanthika-A-S/DSA-Problems/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Bavanthika-A-S/DSA-Problems/tree/master/0136-single-number) |
+| [0414-third-maximum-number](https://github.com/Bavanthika-A-S/DSA-Problems/tree/master/0414-third-maximum-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Bavanthika-A-S/DSA-Problems/tree/master/0075-sort-colors) |
+| [0414-third-maximum-number](https://github.com/Bavanthika-A-S/DSA-Problems/tree/master/0414-third-maximum-number) |
 ## Linked List
 |  |
 | ------- |
