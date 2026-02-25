@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Bavanthika-A-S/DSA-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Bavanthika-A-S/DSA-Problems/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Bavanthika-A-S/DSA-Problems/tree/master/0029-divide-two-integers) |
+| [0509-fibonacci-number](https://github.com/Bavanthika-A-S/DSA-Problems/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -55,4 +56,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Bavanthika-A-S/DSA-Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Bavanthika-A-S/DSA-Problems/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/Bavanthika-A-S/DSA-Problems/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Bavanthika-A-S/DSA-Problems/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Bavanthika-A-S/DSA-Problems/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
